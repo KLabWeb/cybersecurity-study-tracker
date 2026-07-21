@@ -1,4 +1,4 @@
-# Study Tracker
+# Cybersecurity Study Tracker
 
 This repo contains my study tracker. All my studies are logged here, on a task-by-task, day-by-day, week-by-week basis. The tracker provides a window into what I am working on each day as I complete this plan and move to an AppSec Eng role. Updated at the end of each study day, at around 4pm to 6pm ET.
 
